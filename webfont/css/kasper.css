@@ -203,7 +203,7 @@ ul{
   .landing {
     min-height: 100vh;
     background-color: #1f2021;
-    background-image:url(/images/200-2006872_wallpaper-of-bird-owl-tree-background-hd-image.jpg) ;
+    background-image:url(./images/200-2006872_wallpaper-of-bird-owl-tree-background-hd-image.jpg) ;
     background-size:cover ;
     position: relative;
   }
@@ -356,7 +356,7 @@ ul{
     padding-bottom: var(--sec-padding);
     height: 600px;
     position: relative;
-    background-image: url(/images/4540284.jpg);
+    background-image: url(./images/4540284.jpg);
     background-size:cover ;
     display: flex;
     align-items: center;
@@ -575,7 +575,7 @@ ul{
     .stats {
        padding-top: var(--sec-padding);
        padding-bottom: var(--sec-padding );
-       background-image:url(/images/stats.jpg);
+       background-image:url(./images/stats.jpg);
        background-size: cover;
        text-align: center;
        position: relative;
@@ -779,7 +779,7 @@ ul{
     .quota {
       padding-top: var(--sec-padding);
        padding-bottom: var(--sec-padding );
-       background-image: url(/images/4540284.jpg);
+       background-image: url(./images/4540284.jpg);
        background-size:cover ;
        position: relative;
        text-align: center;
@@ -917,7 +917,7 @@ ul{
     .subscribe {
        padding-top: var(--sec-padding);
        padding-bottom: var(--sec-padding );
-       background-image: url(/images/Subscribe.jpg);
+       background-image: url(./images/Subscribe.jpg);
        background-size: cover;
        color: white;
        position: relative;
@@ -1100,7 +1100,7 @@ ul{
     .footer{
        padding-top: calc(var(--sec-padding)/2);
        padding-bottom:calc( var(--sec-padding )/2);
-       background-image: url(/images/footer.jpg);
+       background-image: url(./images/footer.jpg);
        background-size: cover;
        color: white;
        position: relative;
